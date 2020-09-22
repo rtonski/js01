@@ -1,4 +1,3 @@
-let name = 'Rafal'
+let name = 'Rafal';
 
-let surname = 'Tonski'
-
+let surname = 'Tonski';
